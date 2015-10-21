@@ -60,6 +60,17 @@
     },
     "optionalDependencies": {
         "node-red-node-serialport":"0.0.*",
+        "node-red-contrib-freeboard":"0.0.*",
+        "node-red-contrib-ftp":"0.0.*",
+        "node-red-contrib-hue":"0.0.*",
+        "node-red-contrib-nest":"0.1.*",
+        "node-red-node-dweetio":"0.0.*",
+        "node-red-node-ping":"0.0.*",
+        "node-red-node-pushbullet":"0.0.*",
+        "node-red-node-discovery":"0.0.*",
+        "node-red-node-blink1":"0.2.*",
+        "node-red-node-emoncms":"0.0.*",
+        "node-red-node-openweathermap":"0.1.*",
         "bcrypt":"0.8.5"
     },
     "devDependencies": {
