@@ -68,7 +68,7 @@
         "node-red-node-ping":"0.0.*",
         "node-red-node-pushbullet":"0.0.*",
         "node-red-node-discovery":"0.0.*",
-        "node-red-node-blink1":"0.1.*",
+        "node-red-node-blink1":"0.0.*",
         "node-red-node-emoncms":"0.0.*",
         "node-red-node-openweathermap":"0.1.*",
         "bcrypt":"0.8.5"
