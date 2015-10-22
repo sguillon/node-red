@@ -72,6 +72,13 @@
         "node-red-node-blink1":"0.0.*",
         "node-red-node-emoncms":"0.0.*",
         "node-red-node-openweathermap":"0.1.*",
+        "node-red-contrib-openzwave":"1.1.*",
+        "node-red-node-suncalc":"0.0.*",
+        "node-red-contrib-json":"0.2.*",
+        "node-red-contrib-eiscp":"0.3.*",
+        "node-red-contrib-sunevents":"0.0.*",
+        "node-red-contrib-globalcache":"0.3.*",
+        "node-red-contrib-splitter":"0.0.*",
         "bcrypt":"0.8.5"
     },
     "devDependencies": {
